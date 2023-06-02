@@ -1,0 +1,2 @@
+# QTCalculator
+Калькулятор
